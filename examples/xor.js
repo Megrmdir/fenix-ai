@@ -8,7 +8,7 @@ const network = new Network();
 
 // Архитектура: 2 входа -> 4 скрытых нейрона -> 1 выход
 network
-    .addLayer(2, activations.sin, 2)    // Скрытый слой: 4 нейрона
+    .addLayer(2, activations.sin, 2)    // Скрытый слой: 2 нейрона
     .addLayer(1, activations.sigmoid);   // Выходной слой: 1 нейрон, Sigmoid
 
 // Устанавливаем скорость обучения
