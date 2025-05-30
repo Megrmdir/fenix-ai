@@ -327,7 +327,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 - Use the same license for any derivative works
 - **NOT use this project for commercial purposes**
 
-For commercial licensing, please contact [your-email].
+For commercial licensing, please contact megrm.dir@gmail.com.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
