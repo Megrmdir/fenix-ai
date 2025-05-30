@@ -322,7 +322,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 - Share your modifications
 
 **You must:**
-- Give appropriate credit to Tetra
+- Give appropriate credit to Tetra[DEVD]
 - Indicate if you made changes
 - Use the same license for any derivative works
 - **NOT use this project for commercial purposes**
