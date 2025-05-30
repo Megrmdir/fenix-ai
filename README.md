@@ -241,7 +241,7 @@ function printWeights(net) {
 
 ## Тестирование
 
-```javascript
+```bash
 # Все тесты
 bun test
 
